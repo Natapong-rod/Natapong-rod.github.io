@@ -64,6 +64,9 @@ main {
 main div {
     padding: 20px;
 }
+main div h3{
+    font-size: 35px;
+}
 
 main div p.a {
     margin-top: 20px;
